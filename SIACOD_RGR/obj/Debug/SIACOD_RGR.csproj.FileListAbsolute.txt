@@ -1,0 +1,20 @@
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.Form1.resources
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.Properties.Resources.resources
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.csproj.GenerateResource.Cache
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.csproj.CoreCompileInputs.cache
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\bin\Debug\SIACOD_RGR.exe.config
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\bin\Debug\SIACOD_RGR.exe
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\bin\Debug\SIACOD_RGR.pdb
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.exe
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.pdb
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.csprojResolveAssemblyReference.cache
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\bin\Debug\SIACOD_RGR.exe.config
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\bin\Debug\SIACOD_RGR.exe
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\bin\Debug\SIACOD_RGR.pdb
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.csprojAssemblyReference.cache
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.Form1.resources
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.Properties.Resources.resources
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.csproj.GenerateResource.cache
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.csproj.CoreCompileInputs.cache
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.exe
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_RGR\obj\Debug\SIACOD_RGR.pdb

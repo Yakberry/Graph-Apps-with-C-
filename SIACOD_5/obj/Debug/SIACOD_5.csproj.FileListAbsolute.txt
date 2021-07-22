@@ -1,0 +1,20 @@
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\bin\Debug\SIACOD_5.exe.config
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\bin\Debug\SIACOD_5.exe
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\bin\Debug\SIACOD_5.pdb
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.csprojResolveAssemblyReference.cache
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.Form1.resources
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.Properties.Resources.resources
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.csproj.GenerateResource.Cache
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.csproj.CoreCompileInputs.cache
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.exe
+C:\Users\PK\source\repos\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.pdb
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\bin\Debug\SIACOD_5.exe.config
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\bin\Debug\SIACOD_5.exe
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\bin\Debug\SIACOD_5.pdb
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.csprojAssemblyReference.cache
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.Form1.resources
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.Properties.Resources.resources
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.csproj.GenerateResource.cache
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.csproj.CoreCompileInputs.cache
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.exe
+C:\Users\PK\Desktop\Chamber of Knowledge\Old_labs\SIACOD_RGR\SIACOD_5\obj\Debug\SIACOD_5.pdb
